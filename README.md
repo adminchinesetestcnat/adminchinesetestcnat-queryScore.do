@@ -1,0 +1,1 @@
+# adminchinesetestcnat-queryScore.do
